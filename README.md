@@ -1,6 +1,6 @@
 # Sales-data-analysis-using-Excel
 
--This project was intended to analze the bike sales data to draw insights into such as : 
+-This project was intended to analze the office chair sales data to draw insights into such as : 
 
 "Which region has the highest sales"
 
